@@ -21,13 +21,10 @@ This project is an interactive data visualization dashboard built using Python's
 ```bash
 git clone https://github.com/your-username/flight-delay-dashboard.git
 cd flight-delay-dashboard
-
 2. Install the required dependencies:
 pip install -r requirements.txt
-
 3.Run the Dash app:
 python Flight_Delay_Time_Statistics_Dashboard.py
-
 4.Open your browser and go to:
 http://127.0.0.1:8050
 
@@ -48,6 +45,9 @@ https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperS
 📬 Contact
 For any questions or suggestions, feel free to reach out:
 📧 tepegozersin@gmail.com
+
+Thanks for checking out my project!
+
 
 
 
